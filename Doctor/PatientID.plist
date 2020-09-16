@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Visit_StatusName</key>
+		<string>كشف جديد</string>
+		<key>PatientName</key>
+		<string>سيرين القاهري</string>
+		<key>PatientPhone</key>
+		<string>9632154</string>
+		<key>RevealData</key>
+		<string>11/03/2019</string>
+		<key>StillAmount</key>
+		<integer>100</integer>
+		<key>RevealStatusString</key>
+		<string>اعاده كشف</string>
+		<key>RevealID</key>
+		<integer>3</integer>
+		<key>PatientGUID</key>
+		<string>1</string>
+	</dict>
+	<dict>
+		<key>Visit_StatusName</key>
+		<string>قيد  الكشف </string>
+		<key>PatientName</key>
+		<string>احمد صابر</string>
+		<key>PatientPhone</key>
+		<string>0120524153</string>
+		<key>RevealData</key>
+		<string>11/03/2019</string>
+		<key>StillAmount</key>
+		<integer>50</integer>
+		<key>RevealStatusString</key>
+		<string>استشاره</string>
+		<key>RevealID</key>
+		<integer>4</integer>
+		<key>PatientGUID</key>
+		<string>2</string>
+	</dict>
+	<dict>
+		<key>Visit_StatusName</key>
+		<string>موجل</string>
+		<key>PatientName</key>
+		<string>محمد مندور</string>
+		<key>PatientPhone</key>
+		<string>0123</string>
+		<key>RevealData</key>
+		<string>11/03/2019</string>
+		<key>StillAmount</key>
+		<integer>70</integer>
+		<key>RevealStatusString</key>
+		<string>اعاده كشف</string>
+		<key>RevealID</key>
+		<integer>1002</integer>
+		<key>PatientGUID</key>
+		<string>3</string>
+	</dict>
+	<dict>
+		<key>Visit_StatusName</key>
+		<string>كشف جديد</string>
+		<key>PatientName</key>
+		<string>بلال حمدي</string>
+		<key>PatientPhone</key>
+		<string>9590</string>
+		<key>RevealData</key>
+		<string>10/03/2019</string>
+		<key>StillAmount</key>
+		<integer>0</integer>
+		<key>RevealStatusString</key>
+		<string>كشف </string>
+		<key>RevealID</key>
+		<integer>6</integer>
+		<key>PatientGUID</key>
+		<string>3</string>
+	</dict>
+</array>
+</plist>
